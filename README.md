@@ -7,4 +7,5 @@ Golang
        
        - AES_CBC_pkcs7      : AES_CBC 암호화 및 복호화, pkcs7 패딩사용 
        
+       - GPIO               : GPIO 제어
 
