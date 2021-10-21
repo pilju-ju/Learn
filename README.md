@@ -9,7 +9,7 @@ Golang
        
        - GPIO               : GPIO 제어
        
-       - AES_CFB_BASE64     : AES_CFB 
+       - AES_CFB_BASE64     : AES_CFB 암호화 후, Base64로 인코딩
       
 C
 
