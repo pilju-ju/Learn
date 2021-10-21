@@ -1,0 +1,7 @@
+실행법 
+
+./AES_Encoding [key값을 만들 string]
+
+ex) ./AES_Encoding ABCDE 으로 실행합니다. 
+
+프로그램 실행 후, 원하는 텍스트를 입력하면 데이터가 출력됩니다. 
