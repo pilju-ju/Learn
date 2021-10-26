@@ -15,6 +15,6 @@ C
 
        - ARIA128 : ARIA128 암호화, Zero padding 적용 
        
-       - Hex_Convert_String : Hex 를 HexString
+       - Hex_Convert_String : Hex 를 HexString , HexString을 Hex로 변환
        
 
