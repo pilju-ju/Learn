@@ -52,12 +52,12 @@ int main(){
         printf("%C ",hex_string[i]);
     }
     printf("\r\n");
-    printf("%s\r\n",hex_string);
+    printf("%s\r\n",hex_string); //A1A2A3A4B5B6B7B8C9C0CACBDCDDDEDF
 
     hex_len=hexstring_convert_hex(hex_string,string_len,hex_result);
     
     for(i=0;i<hex_len;i++){
-        printf("%02X ",hex_result[i]);
+        printf("%02X ",hex_result[i]); //A1 A2 A3 A4 B5 B6 B7 B8 C9 C0 CA CB DC DD DE DF
     }
     printf("\r\n");
     return 0;
